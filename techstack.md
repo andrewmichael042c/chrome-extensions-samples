@@ -3,29 +3,29 @@
 ## Tech Stack
 andrewmichael042c/chrome-extensions-samples is built on the following main stack:
 
-- [Jest](http://facebook.github.io/jest/) – Javascript Testing Framework
-- [Mocha](http://mochajs.org/) – Javascript Testing Framework
-- [Ruby](https://www.ruby-lang.org) – Languages
-- [Python](https://www.python.org) – Languages
-- [Java](https://www.java.com) – Languages
-- [Node.js](http://nodejs.org/) – Frameworks (Full Stack)
-- [Perl](http://www.perl.org/) – Languages
-- [C++](http://www.cplusplus.com/) – Languages
-- [Rust](http://www.rust-lang.org/) – Languages
 - [C lang](http://en.wikipedia.org/wiki/C_(programming_language)) – Languages
-- [Jetty](http://www.eclipse.org/jetty/) – Web Servers
-- [JavaScript](https://developer.mozilla.org/en-US/docs/Web/JavaScript) – Languages
-- [Eclipse](https://www.eclipse.org/) – Integrated Development Environment
-- [TypeScript](http://www.typescriptlang.org) – Languages
+- [C++](http://www.cplusplus.com/) – Languages
 - [Dart](https://www.dartlang.org/) – Languages
+- [GLSL](https://www.khronos.org/opengl/wiki/Core_Language_(GLSL)) – Languages
+- [Java](https://www.java.com) – Languages
+- [JavaScript](https://developer.mozilla.org/en-US/docs/Web/JavaScript) – Languages
+- [Perl](http://www.perl.org/) – Languages
+- [Python](https://www.python.org) – Languages
+- [Ruby](https://www.ruby-lang.org) – Languages
+- [Rust](http://www.rust-lang.org/) – Languages
+- [TypeScript](http://www.typescriptlang.org) – Languages
+- [Node.js](http://nodejs.org/) – Frameworks (Full Stack)
 - [Babel](http://babeljs.io/) – JavaScript Compilers
 - [ESLint](http://eslint.org/) – Code Review
-- [SinonJS](http://sinonjs.org/) – Javascript Testing Framework
-- [Shell](https://en.wikipedia.org/wiki/Shell_script) – Shells
-- [GLSL](https://www.khronos.org/opengl/wiki/Core_Language_(GLSL)) – Languages
+- [Eclipse](https://www.eclipse.org/) – Integrated Development Environment
+- [GitHub Actions](https://github.com/features/actions) – Continuous Integration
+- [Jest](http://facebook.github.io/jest/) – Javascript Testing Framework
+- [Jetty](http://www.eclipse.org/jetty/) – Web Servers
+- [Mocha](http://mochajs.org/) – Javascript Testing Framework
 - [Prettier](https://prettier.io/) – Code Review
 - [Puppeteer](https://github.com/GoogleChrome/puppeteer) – Headless Browsers
-- [GitHub Actions](https://github.com/features/actions) – Continuous Integration
+- [SinonJS](http://sinonjs.org/) – Javascript Testing Framework
+- [Shell](https://en.wikipedia.org/wiki/Shell_script) – Shells
 
 Full tech stack [here](/techstack.md)
 
@@ -35,29 +35,29 @@ Full tech stack [here](/techstack.md)
 ## Tech Stack
 andrewmichael042c/chrome-extensions-samples is built on the following main stack:
 
-- <img width='25' height='25' src='https://img.stackshare.io/service/830/jest.png' alt='Jest'/> [Jest](http://facebook.github.io/jest/) – Javascript Testing Framework
-- <img width='25' height='25' src='https://img.stackshare.io/service/832/mocha.png' alt='Mocha'/> [Mocha](http://mochajs.org/) – Javascript Testing Framework
-- <img width='25' height='25' src='https://img.stackshare.io/service/989/ruby.png' alt='Ruby'/> [Ruby](https://www.ruby-lang.org) – Languages
-- <img width='25' height='25' src='https://img.stackshare.io/service/993/pUBY5pVj.png' alt='Python'/> [Python](https://www.python.org) – Languages
-- <img width='25' height='25' src='https://img.stackshare.io/service/995/K85ZWV2F.png' alt='Java'/> [Java](https://www.java.com) – Languages
-- <img width='25' height='25' src='https://img.stackshare.io/service/1011/n1JRsFeB_400x400.png' alt='Node.js'/> [Node.js](http://nodejs.org/) – Frameworks (Full Stack)
-- <img width='25' height='25' src='https://img.stackshare.io/service/1048/perl.png' alt='Perl'/> [Perl](http://www.perl.org/) – Languages
-- <img width='25' height='25' src='https://img.stackshare.io/service/1049/cplusplus.png' alt='C++'/> [C++](http://www.cplusplus.com/) – Languages
-- <img width='25' height='25' src='https://img.stackshare.io/service/1070/v7txhrjp9pdqrkdtxxp0.png' alt='Rust'/> [Rust](http://www.rust-lang.org/) – Languages
 - <img width='25' height='25' src='https://img.stackshare.io/no-img-open-source.png' alt='C lang'/> [C lang](http://en.wikipedia.org/wiki/C_(programming_language)) – Languages
-- <img width='25' height='25' src='https://img.stackshare.io/service/1084/default_392a491b5c8bff92ffa39468611ad8f9c0ff1939.png' alt='Jetty'/> [Jetty](http://www.eclipse.org/jetty/) – Web Servers
-- <img width='25' height='25' src='https://img.stackshare.io/service/1209/javascript.jpeg' alt='JavaScript'/> [JavaScript](https://developer.mozilla.org/en-US/docs/Web/JavaScript) – Languages
-- <img width='25' height='25' src='https://img.stackshare.io/service/1446/8cyY6D_m.png' alt='Eclipse'/> [Eclipse](https://www.eclipse.org/) – Integrated Development Environment
-- <img width='25' height='25' src='https://img.stackshare.io/service/1612/bynNY5dJ.jpg' alt='TypeScript'/> [TypeScript](http://www.typescriptlang.org) – Languages
+- <img width='25' height='25' src='https://img.stackshare.io/service/1049/cplusplus.png' alt='C++'/> [C++](http://www.cplusplus.com/) – Languages
 - <img width='25' height='25' src='https://img.stackshare.io/service/1646/Twitter-02.png' alt='Dart'/> [Dart](https://www.dartlang.org/) – Languages
+- <img width='25' height='25' src='https://img.stackshare.io/service/6548/default_a66025fbe8f221c489bdaac3a99d84e5f138cbbd.png' alt='GLSL'/> [GLSL](https://www.khronos.org/opengl/wiki/Core_Language_(GLSL)) – Languages
+- <img width='25' height='25' src='https://img.stackshare.io/service/995/K85ZWV2F.png' alt='Java'/> [Java](https://www.java.com) – Languages
+- <img width='25' height='25' src='https://img.stackshare.io/service/1209/javascript.jpeg' alt='JavaScript'/> [JavaScript](https://developer.mozilla.org/en-US/docs/Web/JavaScript) – Languages
+- <img width='25' height='25' src='https://img.stackshare.io/service/1048/perl.png' alt='Perl'/> [Perl](http://www.perl.org/) – Languages
+- <img width='25' height='25' src='https://img.stackshare.io/service/993/pUBY5pVj.png' alt='Python'/> [Python](https://www.python.org) – Languages
+- <img width='25' height='25' src='https://img.stackshare.io/service/989/ruby.png' alt='Ruby'/> [Ruby](https://www.ruby-lang.org) – Languages
+- <img width='25' height='25' src='https://img.stackshare.io/service/1070/v7txhrjp9pdqrkdtxxp0.png' alt='Rust'/> [Rust](http://www.rust-lang.org/) – Languages
+- <img width='25' height='25' src='https://img.stackshare.io/service/1612/bynNY5dJ.jpg' alt='TypeScript'/> [TypeScript](http://www.typescriptlang.org) – Languages
+- <img width='25' height='25' src='https://img.stackshare.io/service/1011/n1JRsFeB_400x400.png' alt='Node.js'/> [Node.js](http://nodejs.org/) – Frameworks (Full Stack)
 - <img width='25' height='25' src='https://img.stackshare.io/service/2739/-1wfGjNw.png' alt='Babel'/> [Babel](http://babeljs.io/) – JavaScript Compilers
 - <img width='25' height='25' src='https://img.stackshare.io/service/3337/Q4L7Jncy.jpg' alt='ESLint'/> [ESLint](http://eslint.org/) – Code Review
-- <img width='25' height='25' src='https://img.stackshare.io/service/3509/logo.png' alt='SinonJS'/> [SinonJS](http://sinonjs.org/) – Javascript Testing Framework
-- <img width='25' height='25' src='https://img.stackshare.io/service/4631/default_c2062d40130562bdc836c13dbca02d318205a962.png' alt='Shell'/> [Shell](https://en.wikipedia.org/wiki/Shell_script) – Shells
-- <img width='25' height='25' src='https://img.stackshare.io/service/6548/default_a66025fbe8f221c489bdaac3a99d84e5f138cbbd.png' alt='GLSL'/> [GLSL](https://www.khronos.org/opengl/wiki/Core_Language_(GLSL)) – Languages
+- <img width='25' height='25' src='https://img.stackshare.io/service/1446/8cyY6D_m.png' alt='Eclipse'/> [Eclipse](https://www.eclipse.org/) – Integrated Development Environment
+- <img width='25' height='25' src='https://img.stackshare.io/service/11563/actions.png' alt='GitHub Actions'/> [GitHub Actions](https://github.com/features/actions) – Continuous Integration
+- <img width='25' height='25' src='https://img.stackshare.io/service/830/jest.png' alt='Jest'/> [Jest](http://facebook.github.io/jest/) – Javascript Testing Framework
+- <img width='25' height='25' src='https://img.stackshare.io/service/1084/default_392a491b5c8bff92ffa39468611ad8f9c0ff1939.png' alt='Jetty'/> [Jetty](http://www.eclipse.org/jetty/) – Web Servers
+- <img width='25' height='25' src='https://img.stackshare.io/service/832/mocha.png' alt='Mocha'/> [Mocha](http://mochajs.org/) – Javascript Testing Framework
 - <img width='25' height='25' src='https://img.stackshare.io/service/7035/default_66f265943abed56bcdbfca1c866a4261b1fbb063.jpg' alt='Prettier'/> [Prettier](https://prettier.io/) – Code Review
 - <img width='25' height='25' src='https://img.stackshare.io/service/7553/puppeteer.png' alt='Puppeteer'/> [Puppeteer](https://github.com/GoogleChrome/puppeteer) – Headless Browsers
-- <img width='25' height='25' src='https://img.stackshare.io/service/11563/actions.png' alt='GitHub Actions'/> [GitHub Actions](https://github.com/features/actions) – Continuous Integration
+- <img width='25' height='25' src='https://img.stackshare.io/service/3509/logo.png' alt='SinonJS'/> [SinonJS](http://sinonjs.org/) – Javascript Testing Framework
+- <img width='25' height='25' src='https://img.stackshare.io/service/4631/default_c2062d40130562bdc836c13dbca02d318205a962.png' alt='Shell'/> [Shell](https://en.wikipedia.org/wiki/Shell_script) – Shells
 
 Full tech stack [here](/techstack.md)
 
@@ -68,7 +68,7 @@ Full tech stack [here](/techstack.md)
 # Tech Stack File
 ![](https://img.stackshare.io/repo.svg "repo") [andrewmichael042c/chrome-extensions-samples](https://github.com/andrewmichael042c/chrome-extensions-samples)![](https://img.stackshare.io/public_badge.svg "public")
 <br/><br/>
-|46<br/>Tools used|01/30/24 <br/>Report generated|
+|46<br/>Tools used|02/29/24 <br/>Report generated|
 |------|------|
 </div>
 
